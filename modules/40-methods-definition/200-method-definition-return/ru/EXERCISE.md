@@ -1,5 +1,5 @@
 
-Реализуйте статический метод `sayHurrayThreeTimes()`, которая возвращает строку 'hurray! hurray! hurray!'.
+Реализуйте статический метод `sayHurrayThreeTimes()`, который возвращает строку 'hurray! hurray! hurray!'.
 
 ```java
 var hurray = App.sayHurrayThreeTimes();
