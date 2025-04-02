@@ -29,7 +29,7 @@ Dragon's mother said "No"
 System.out.println("Dragon's mother said "No"");
 ```
 
-С точки зрения Java, здесь странная конструкция из двух трех компонентов:
+С точки зрения Java, здесь странная конструкция из ~~двух~~ трех компонентов:
 
 - Строки *"Dragon's mother said "*
 - Строки *""*
