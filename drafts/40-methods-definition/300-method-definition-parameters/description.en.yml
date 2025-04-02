@@ -52,7 +52,6 @@ theory: |
   }
   ```
 
-  https://replit.com/@hexlet/java-basics-methods-parameters-1
 
   Разберем этот код подробнее. `char` говорит нам о типе возвращаемого значения. Далее в скобках указывается тип параметра `String` и его имя `str`.
 
@@ -86,7 +85,6 @@ theory: |
   App.average(1, 2); // 1.5
   ```
 
-  https://replit.com/@hexlet/java-basics-methods-parameters-2
 
   Методы могут требовать на вход любое количество параметров, которое им нужно для работы:
 

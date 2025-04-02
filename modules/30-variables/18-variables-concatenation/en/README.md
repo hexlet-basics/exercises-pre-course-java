@@ -28,4 +28,3 @@ var what = first + last;
 System.out.print(what); // => "Kingsroad"
 ```
 
-https://replit.com/@hexlet/java-basics-variables-4

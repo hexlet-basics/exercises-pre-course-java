@@ -23,4 +23,3 @@ var result = 10 + ((int) 5.1);
 System.out.println(result); // => 15
 ```
 
-https://replit.com/@hexlet/java-basics-data-types

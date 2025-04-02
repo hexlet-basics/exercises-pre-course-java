@@ -46,7 +46,6 @@ var rublesCount = dollarsCount * rublesPerDollar; // => 3750
 System.out.print("The price is" + rublesCount + "rubles");
 ```
 
-https://replit.com/@hexlet/java-basics-variables-3
 
 The price is 3750 rubles
 
