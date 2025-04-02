@@ -119,7 +119,6 @@ class App {
 }
 ```
 
-https://replit.com/@hexlet/java-basics-return
 
 В этом примере в определении метода использовался `long`, так как возвращается целое число.
 

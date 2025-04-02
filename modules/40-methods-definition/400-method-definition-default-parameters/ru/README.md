@@ -87,6 +87,5 @@ class App {
 }
 ```
 
-https://replit.com/@hexlet/java-basics-default-parameters
 
 В этом примере мы не сократили код, но он наглядно показывает принцип, описанный выше.

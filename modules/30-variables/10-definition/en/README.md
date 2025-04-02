@@ -23,7 +23,6 @@ When the variable is created, you can start using it. It is substituted in those
   Father!
 </pre>
 
-https://replit.com/@hexlet/java-basics-variables-1
 
 For the name of the variable, any set of valid characters is used, which include letters of the English alphabet, numbers and the characters `-`, `_`. In this case, the number can not be put at the beginning. Variable names are case-sensitive, that is, the name `hello` and the name `heLLo` are two different names, and therefore two variables.
 

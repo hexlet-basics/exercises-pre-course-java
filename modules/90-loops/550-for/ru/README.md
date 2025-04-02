@@ -15,7 +15,6 @@ public static String reverseString(String str) {
 }
 ```
 
-https://replit.com/@hexlet/java-basics-conditions-for
 
 Этот код можно описать так:
 

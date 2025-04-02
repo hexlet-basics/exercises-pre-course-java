@@ -10,7 +10,6 @@ System.out.println(greeting);
 System.out.println(greeting);
 ```
 
-https://replit.com/@hexlet/java-basics-variables-2
 
 Java — статически типизированный язык. Это значит, что тип переменной задается при определении и больше не меняется.
 

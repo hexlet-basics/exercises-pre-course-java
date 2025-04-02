@@ -16,7 +16,6 @@ theory: |
   System.out.print(greeting);
   ```
 
-  https://replit.com/@hexlet/java-basics-variables-2
 
   The name remains the same, but inside the other data. It should be noted that when changing variables, the type of data contained in them cannot change (this is not quite the case for object-oriented programming, but for the time being we will not go into details). If a variable was assigned a string, then when compiling this assignment — even before the program was started — java associates the data type “string” with this variable, and knows that there will always be only strings, and will not let it put something else in it.
 
