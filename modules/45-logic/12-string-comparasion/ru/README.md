@@ -111,7 +111,6 @@ var name2 = "java".toUpperCase(); // "JAVA"
 name1.equals(name2); // true
 ```
 
-
 Помимо `equals()`, в строки встроен метод `equalsIgnoreCase()`, который выполняет проверку по значению без учета регистра:
 
 ```java

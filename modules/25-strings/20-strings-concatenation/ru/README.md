@@ -36,4 +36,3 @@ System.out.println("King's" + " " + "Landing"); //  => King's Landing
 System.out.println("King's " + " Landing");   // => King's  Landing
 System.out.println("King's  " + "  Landing"); // => King's    Landing
 ```
-

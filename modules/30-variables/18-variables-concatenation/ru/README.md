@@ -21,4 +21,3 @@ var last = "road";
 var what = first + last;
 System.out.println(what); //=> Kingsroad
 ```
-
