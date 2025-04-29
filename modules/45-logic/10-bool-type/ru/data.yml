@@ -1,5 +1,4 @@
 ---
-
 name: Логический тип
 definitions:
   - name: Логический тип (boolean)
