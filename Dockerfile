@@ -1,8 +1,10 @@
 FROM hexletbasics/base-image:latest
 
-WORKDIR /exercises-pre-course-java
+ENV COURSE_DIR=/exercises-pre-course-java
 
-ENV PATH=/exercises-java/bin:$PATH
+WORKDIR ${COURSE_DIR}
+
+ENV PATH=${COURSE_DIR}/bin:$PATH
 
 RUN apt-get update && apt-get install -yqq openjdk-21-jdk
 
