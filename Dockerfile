@@ -1,6 +1,6 @@
 FROM hexletbasics/base-image:latest
 
-WORKDIR /exercises-java
+WORKDIR /exercises-pre-course-java
 
 ENV PATH=/exercises-java/bin:$PATH
 
